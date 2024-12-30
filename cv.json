@@ -1,0 +1,394 @@
+{
+  "basics": {
+    "name": "Yannick Crédo Kafui ATADEGNON",
+    "label": "Developpeur Web et Analyste de données",
+    "image": "/me_avatar.jpg",
+    "email": "yatadegnon2002@gmail.com",
+    "phone": "+228 92490313",
+    "url": "https://johndoe.dev",
+    "summary": "Actuellement, Assistant Analyste de données CVM (Customer Value Management) chez Yas Togo, le leader de la téléphonie au Togo. Parallèlement, je poursuis un master double diplôme en Informatique et Systèmes à l’Université de Lomé, en collaboration avec l’Université Technologie de Belfort-Montbéliard.",
+    "theme": "blue",
+    "location": {
+      "address": "Awatamé-Plateau",
+      "postalCode": "01BP214",
+      "city": "Lomé",
+      "countryCode": "Tg",
+      "region": "TOGO"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Yannick Crédo K. ATADEGNON",
+        "url": "https://urls.fr/4X3QNv"
+      },
+      {
+        "network": "X",
+        "username": "john-doe",
+        "url": "https://x.com/john-doe"
+      },
+      {
+        "network": "GitHub",
+        "username": "kcinnay23",
+        "url": "https://github.com/kcinnay23"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Yas Togo",
+      "position": "Analyste de données CVM",
+      "location_type": "On site",
+      "location": "Lomé, TOGO",
+      "url": "https://www.yas.tg/",
+      "startDate": "Juillet-2024",
+      "endDate": null,
+      "summary": "Analyse et contrôle des performances des actions CVM.",
+      "highlights": [
+        "Improved website performance by optimizing code"
+      ],
+      "responsibilities": [
+        "Participation aux analyses en amont et en aval des campagnes CVM.",
+        "Suivi daily des GA-Deco-Journalier.",
+        "Execution des requêtes SQL pour les analyses.",
+        "Execution du planning Bulk."
+      ],
+      "achievements": [
+        "Analyse des différents campagnes CVM."
+      ],
+      "skills": [
+        "SQL",
+        "Excel"
+      ]
+    },
+    {
+      "name": "Give Smile Solutions",
+      "position": "Analyste Programmeur",
+      "location_type": "On site",
+      "location": "Lomé, TOGO",
+      "url": "https://gsmilesgroup.com/",
+      "startDate": "2023-05-01",
+      "endDate": "2023-08-01",
+      "summary": "Fournir des recommandations aux acteurs agricoles de la filière mangue en vue de réduire les risques de pertes post récolte.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Réaliser les activités sur la plateforme mobile GSmile-Agri.",
+        "Télécharger les données et les fichiers sur la plateforme web GSmile-Agri.",
+        "Mise en place de la plateforme d'analyse de données."
+      ],
+      "achievements": [
+        "Mise en place d’une plateforme d’analyse de données agricoles : cas de la filière mangue."
+      ],
+      "skills": [
+        "Python",
+        "Flask",
+        "Pandas",
+        "Numpy",
+        "React",
+        "Chart-JS",
+        "SQL",
+        "Github",
+        "UML"
+      ]
+    },
+
+    {
+      "name": "Give Smile Solutions",
+      "position": "Developpeur WEB",
+      "location_type": "On site",
+      "location": "Lomé, TOGO",
+      "url": "https://gsmilesgroup.com/",
+      "startDate": "2022-06-01",
+      "endDate": "2022-08-01",
+      "summary": "La gestion des visiteurs par l’informatisation du registre des visiteurs dans une entreprise.",
+      "highlights": [
+        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
+      ],
+      "responsibilities": [
+        "Mise en place de la plateforme de suivi des visiteurs",
+        "Contribution au developpement de la plateforme web"
+      ],
+      "achievements": [
+        "Réalisation du projet de Gestion informatisée du registre d'entrée-sortie des visiteurs dans une entreprise."
+      ],
+      "skills": [
+        "PHP",
+        "Symfony",
+        "Flutter",
+        "UML",
+        "SQL",
+        "Github"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Local Coding Club",
+      "position": "Volunteer",
+      "url": "https://codingclub.com/",
+      "startDate": "2021-01-01",
+      "endDate": "2022-01-01",
+      "summary": "Helped organize coding workshops and mentored new members.",
+      "highlights": [ 
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ecole Polytechnique de Lomé - Université de Technologie de Belfort Montbeliard",
+      "url": "https://urls.fr/tRmHoi",
+      "area": "Informatique et Systemes",
+      "studyType": "Master",
+      "startDate": "2023-11-01",
+      "endDate": "2025-08-01",
+      "score": "3.8",
+      "courses": [
+        "CS101 - Introduction to Computer Science",
+        "CS102 - Data Structures"
+      ]
+    },
+    {
+      "institution": "Institut Africain d'Informatique (IAI-TOGO)",
+      "url": "https://new.iai-togo.tg/officiel",
+      "area": "Genie Logiciel et Systèmes d'informations",
+      "studyType": "Licence",
+      "startDate": "2020-11-01",
+      "endDate": "2023-09-01",
+      "score": "3.9",
+      "courses": [
+        "SE201 - Advanced Software Development",
+        "SE202 - Software Architecture and Design"
+      ]
+    },
+    {
+      "institution": "Lycée Moderne Adidogomé 1",
+      "url": "https://citycollege.edu",
+      "area": "Baccalauréat Série D",
+      "studyType": "Associate Degree",
+      "startDate": "2019-01-01",
+      "endDate": "2020-12-01",
+      "score": "3.7",
+      "courses": [
+        "IT101 - Networking Fundamentals",
+        "IT102 - Database Management Systems"
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Intermediate Python",
+      "date": "2023-11-01",
+      "issuer": "DATACAMP",
+      "url": "https://bit.ly/42bYeCT"
+    },
+    {
+      "name": " Introduction SQL",
+      "date": "2023-05-01",
+      "issuer": "DATACAMP",
+      "url": "https://bit.ly/3W0vUiD"
+    },
+    {
+      "name": "Introduction Python",
+      "date": "2023-05-01",
+      "issuer": "DATACAMP",
+      "url": "https://bit.ly/41Raf08"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Figma",
+      "level": "Expert",
+      "keywords": [
+        "Design",
+        "UI"
+      ]
+    },
+    {
+      "name": "Gitlab",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "HTML",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend"
+      ]
+    },
+    {
+      "name": "CSS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "Fullstack"
+      ]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "JavaScript",
+        "Server"
+      ]
+    },
+    {
+      "name": "MySQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code"
+      ]
+    },
+    {
+      "name": "GitHub",
+      "level": "Intermediate",
+      "keywords": [
+        "Version Control",
+        "Collaboration",
+        "Source Code",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Beginner",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": [
+        "AI",
+        "Blockchain"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Smith",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Personal Portfolio",
+      "isActive": false,
+      "description": "A personal portfolio website to showcase my projects and skills.",
+      "highlights": [
+        "Built with React and Tailwind CSS",
+        "Includes a blog and contact form"
+      ],
+      "url": "https://johndoe.dev",
+      "github": "https://github.com"
+    },
+    {
+      "name": "Weather App",
+      "isActive": true,
+      "description": "A web application that provides weather information for any location.",
+      "highlights": [
+        "Built with JavaScript and OpenWeatherMap API",
+        "Responsive design"
+      ],
+      "url": "https://weatherapp.com"
+    },
+    {
+      "name": "Task Manager",
+      "isActive": true,
+      "description": "A simple task management app to keep track of daily tasks.",
+      "highlights": [
+        "Built with Node.js and MongoDB",
+        "User authentication and CRUD operations"
+      ],
+      "url": "https://taskmanager.com",
+      "github": "https://github.com"
+    },
+    {
+      "name": "E-commerce Site",
+      "isActive": false,
+      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "highlights": [
+        "Product management and shopping cart functionality",
+        "Secure payment integration"
+      ],
+      "url": "https://ecommerce.com"
+    }
+  ]
+}
