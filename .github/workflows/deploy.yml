@@ -22,7 +22,7 @@ jobs:
         with:
           path: . # Chemin vers le projet Astro dans le dépôt (optionnel)
           node-version: 20 # Version spécifique de Node.js à utiliser pour construire votre site (optionnel)
-          package-manager: pnpm@latest # Version de pnpm à utiliser
+          package-manager: npm@latest # Version de pnpm à utiliser
 
   deploy:
     needs: build
