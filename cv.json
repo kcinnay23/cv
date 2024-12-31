@@ -23,8 +23,8 @@
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "k_quar",
+        "url": "https://urls.fr/WBKEBe"
       },
       {
         "network": "GitHub",
@@ -198,7 +198,7 @@
   ],
   "skills": [
     {
-      "name": "Figma",
+      "name": "Python",
       "level": "Expert",
       "keywords": [
         "Design",
@@ -232,7 +232,7 @@
       ]
     },
     {
-      "name": "JavaScript",
+      "name": "Flask",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -242,7 +242,7 @@
       ]
     },
     {
-      "name": "Tailwind",
+      "name": "Boostrap",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -252,7 +252,7 @@
       ]
     },
     {
-      "name": "TypeScript",
+      "name": "PHP-Symfony",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -262,32 +262,13 @@
       ]
     },
     {
-      "name": "Node",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
-      ]
-    },
-    {
-      "name": "MySQL",
+      "name": "Excel",
       "level": "Intermediate",
       "keywords": [
         "Databases",
         "SQL",
         "Data Storage",
         "Backend"
-      ]
-    },
-    {
-      "name": "Git",
-      "level": "Intermediate",
-      "keywords": [
-        "Version Control",
-        "Collaboration",
-        "Source Code"
       ]
     },
     {
@@ -301,7 +282,7 @@
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Chart.js",
       "level": "Beginner",
       "keywords": [
         "Web Development",
@@ -334,61 +315,79 @@
   ],
   "interests": [
     {
-      "name": "Technology",
+      "name": "Technologie",
       "keywords": [
         "AI",
         "Blockchain"
+      ]
+    },
+    {
+      "name": "Basket",
+      "keywords": [
+        "Fun",
+        "Sourire"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
+        "Adversité",
+        "Adrénaline"
+      ]
+    },
+    {
+      "name": "Manga",
+      "keywords": [
+        "Otaku"
       ]
     }
   ],
   "references": [
     {
-      "name": "Jane Smith",
-      "reference": "Reference…"
+      "name": "TEVI Fessou",
+      "reference": "Directeur de Give Smile Solutions"
     }
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
+      "name": "Portfolio personnel",
       "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "description": "Un site web de portfolio personnel pour présenter mes projets et mes compétences.",
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "Réalisé avec Astro et Tailwind"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "github": "https://github.com/kcinnay23"
     },
     {
-      "name": "Weather App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
+      "name": "Youtube Vs SPOTIFY dans l’industrie musicale",
       "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "description": "Projet scolaire d'analyse BI entre Spotify et Youtube.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+        "Réalisé avec Power BI"
+      ]
+      
+    },
+    {
+      "name": "Plateforme d'analyse de données agricoles: cas de la filière mangue.",
+      "isActive": false,
+      "description": "Plateforme permettant de fournir des recommandations aux acteurs agricoles de la filière mangue en vue de réduire les risques de pertes post récolte.",
+      "highlights": [
+        "Réalisé avec React, Python-Flask, Chart-JS, Pandas, Numpy",
+        "Donne des recommandations grâce aux informations fournies",
+        "Propose des plannings de culture",
+        "Fournit des graphes pour comprendre les activités."
+      ] 
+    },
+    {
+      "name": "Plateforme de gestion informatisée du registre d’entrée-sortie des visiteurs",
+      "isActive": false,
+      "description": "Plateforme de gestion des visiteurs par l’informatisation du registre d'entrée-sortie des visiteurs dans l'entreprise.",
+      "highlights": [
+        "Recueillir les informations sur les visiteurs ",
+        " Préenregistrer les visiteurs pour un rendez-vous",
+        "Afficher les détails sur l’identité des visiteurs",
+        " Lister des visiteurs"
+      ]
     }
   ]
 }
