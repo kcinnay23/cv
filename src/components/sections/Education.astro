@@ -5,13 +5,16 @@ import { education } from "@cv";
 import { certificates } from "@cv";
 ---
 
-<Section className={Astro.props.className} title="Education">
+<Section className={Astro.props.className} title="Éducation">
 	<ul class="space-y-4 py-3 print:space-y-0">
 		{
 			education.map(({ institution, startDate, endDate, area, url }) => {
-				const startYear = new Date(startDate).getFullYear();
-				const endYear = endDate != null ? new Date(endDate).getFullYear() : "Actual";
-				const years = `${startYear} - ${endYear}`;
+				const options = { year: 'numeric', month: 'long' }; // Format mois + année
+				const startFormatted = new Date(startDate).toLocaleDateString('fr-FR', options); // "Janvier 2021"
+				const endFormatted = endDate != null
+  				? new Date(endDate).toLocaleDateString('fr-FR', options) // "Janvier 2022"
+  				: "Présent"; // Pour une date non définie
+				const years = `${startFormatted} - ${endFormatted}`;
 
 				return (
 					<div class="flex items-baseline">
@@ -38,7 +41,7 @@ import { certificates } from "@cv";
 	{
 		certificates.length > 0 && (
 			<>
-				<h4>Certificates</h4>
+				<h4>Certificats</h4>
 				<ul class="space-y-4 py-3 print:space-y-0">
 					{certificates.map(({ name, date, issuer, url }) => {
 						const certificateYear = new Date(date).getFullYear();

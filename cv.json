@@ -2,11 +2,11 @@
   "basics": {
     "name": "Yannick Crédo Kafui ATADEGNON",
     "label": "Developpeur Web et Analyste de données",
-    "image": " my_photo.png",
+    "image": "my_photo.png",
     "email": "yatadegnon2002@gmail.com",
     "phone": "+228 92490313",
-    "url": "https://johndoe.dev",
-    "summary": "Actuellement, Assistant Analyste de données CVM (Customer Value Management) chez Yas Togo, le leader de la téléphonie au Togo. Parallèlement, je poursuis un master double diplôme en Informatique et Systèmes à l’Université de Lomé, en collaboration avec l’Université Technologie de Belfort-Montbéliard.",
+    "url": "https://urls.fr/4X3QNv",
+    "summary": "Actuellement, Assistant Analyste de données CVM (Customer Value Management) chez Yas Togo, le leader de la téléphonie au Togo. Parallèlement, je poursuis un master double diplôme en Informatique et Systèmes à l’Université de Lomé, en collaboration avec l’Université Technologie de Belfort-Montbéliard.\nTitulaire d'un permis catégorie B",
     "theme": "blue",
     "location": {
       "address": "Awatamé-Plateau",
@@ -36,11 +36,11 @@
   "work": [
     {
       "name": "Yas Togo",
-      "position": "Analyste de données CVM",
+      "position": "Assistant Analyste de données CVM",
       "location_type": "On site",
-      "location": "Lomé, TOGO",
+      "location": "Lomé, TOGO", 
       "url": "https://www.yas.tg/",
-      "startDate": "Juillet-2024",
+      "startDate": "2024-07-09",
       "endDate": null,
       "summary": "Analyse et contrôle des performances des actions CVM.",
       "highlights": [
@@ -88,7 +88,7 @@
         "React",
         "Chart-JS",
         "SQL",
-        "Github",
+        "GitHub",
         "UML"
       ]
     },
@@ -118,7 +118,7 @@
         "Flutter",
         "UML",
         "SQL",
-        "Github"
+        "GitHub"
       ]
     }
   ],
@@ -137,7 +137,7 @@
   ],
   "education": [
     {
-      "institution": "Ecole Polytechnique de Lomé - Université de Technologie de Belfort Montbeliard",
+      "institution": "Ecole Polytechnique de Lomé - Université de Technologie de Belfort Montbéliard",
       "url": "https://urls.fr/tRmHoi",
       "area": "Informatique et Systemes",
       "studyType": "Master",
@@ -259,6 +259,16 @@
         "Frontend",
         "Backend",
         "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
+      "keywords": [
+        "Databases",
+        "SQL",
+        "Data Storage",
+        "Backend"
       ]
     },
     {
