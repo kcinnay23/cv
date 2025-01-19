@@ -9,12 +9,19 @@ import { certificates } from "@cv";
 	<ul class="space-y-4 py-3 print:space-y-0">
 		{
 			education.map(({ institution, startDate, endDate, area, url }) => {
-				const options = { year: 'numeric', month: 'long' }; // Format mois + année
-				const startFormatted = new Date(startDate).toLocaleDateString('fr-FR', options); // "Janvier 2021"
-				const endFormatted = endDate != null
-  				? new Date(endDate).toLocaleDateString('fr-FR', options) // "Janvier 2022"
-  				: "Présent"; // Pour une date non définie
-				const years = `${startFormatted} - ${endFormatted}`;
+				const options = { year: "numeric", month: "long" }; // Format mois + année
+
+			// Formattage des dates
+			const startFormatted = startDate
+			? new Date(startDate).toLocaleDateString("fr-FR", { year: "numeric", month: "long" })
+			: "Date inconnue";
+
+			const endFormatted = endDate
+			? new Date(endDate).toLocaleDateString("fr-FR", { year: "numeric", month: "long" })
+			: "Présent";
+
+			const years = `${startFormatted} - ${endFormatted}`;
+
 
 				return (
 					<div class="flex items-baseline">

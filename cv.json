@@ -7,6 +7,7 @@
     "phone": "+228 92490313",
     "url": "https://urls.fr/4X3QNv",
     "summary": "Actuellement, Assistant Analyste de données CVM (Customer Value Management) chez Yas Togo, le leader de la téléphonie au Togo. Parallèlement, je poursuis un master double diplôme en Informatique et Systèmes à l’Université de Lomé, en collaboration avec l’Université Technologie de Belfort-Montbéliard.Titulaire d'un permis catégorie B",
+    "autres": "Parallèlement, je poursuis un master double diplôme en Informatique et Systèmes à l’Université de Lomé, en collaboration avec l’Université Technologie de Belfort-Montbéliard.Titulaire d'un permis catégorie B",
     "theme": "blue",
     "location": {
       "address": "Awatamé-Plateau",
@@ -14,7 +15,7 @@
       "city": "Lomé",
       "countryCode": "Tg",
       "region": "TOGO"
-    },
+    }, 
     "profiles": [
       {
         "network": "LinkedIn",
@@ -86,7 +87,7 @@
         "Pandas",
         "Numpy",
         "React",
-        "Chart-JS",
+        "Chart",
         "SQL",
         "GitHub",
         "UML"
